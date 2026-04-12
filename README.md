@@ -12,5 +12,3 @@ This repository contains my Fundamentals of Programming mini project.
 ## Language Used
 C Programming
 
-## Author
-[Your Name]
